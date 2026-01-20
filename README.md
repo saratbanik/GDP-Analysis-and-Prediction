@@ -35,6 +35,7 @@ country's GDP per capita.
 4. Plotly
 5. Dataset
 
+## Preview
 ![image](https://github.com/saratbanik/GDP-Analysis-and-Prediction-2020-2026-/blob/main/img/first.png)
 ![image](https://github.com/saratbanik/GDP-Analysis-and-Prediction-2020-2026-/blob/main/img/second.png)
 ![image](https://github.com/saratbanik/GDP-Analysis-and-Prediction-2020-2026-/blob/main/img/third.png)
