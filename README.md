@@ -42,3 +42,11 @@ country's GDP per capita.
 ![image](https://github.com/saratbanik/GDP-Analysis-and-Prediction-2020-2026-/blob/main/img/forth.png)
 ![image](https://github.com/saratbanik/GDP-Analysis-and-Prediction-2020-2026-/blob/main/img/fifth.png)
 ![image](https://github.com/saratbanik/GDP-Analysis-and-Prediction-2020-2026-/blob/main/img/sixth.png)
+---
+
+<div align="center">
+
+**Developed by [SARAT BANIK](https://www.linkedin.com/in/saratbanik)**
+
+</div>
+
